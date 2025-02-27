@@ -1,0 +1,852 @@
+============================================== 
+周一 2025/02/24 17:11:13.09 开始执行 
+周一 2025/02/24 17:11:13.20 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250221
+fullstartdate: 202502211600
+enddate: 20250222
+url: /th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.StLouisArch_ZH-CN0442955735
+copyright: 圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)
+copyrightlink: /search?q=%e5%9c%a3%e8%b7%af%e6%98%93%e6%96%af%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 向辉煌迈进
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ
+wp: True
+hsh: 0cf3c747d53e77557e81d9e5876f3487
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250222.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250220
+fullstartdate: 202502201600
+enddate: 20250221
+url: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579
+copyright: 希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)
+copyrightlink: /search?q=%e5%b8%8c%e8%8e%ab%e5%8a%a0&form=hpcapt&mkt=zh-cn
+title: 静水流深的传说
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ
+wp: True
+hsh: c61f4299ffebc05c63eaa0265d4aa160
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250221.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250219
+fullstartdate: 202502191600
+enddate: 20250220
+url: /th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.CanadaDeer_ZH-CN0631345798
+copyright: 马鹿，加拿大 (© Delbars/Getty Images)
+copyrightlink: /search?q=%e9%a9%ac%e9%b9%bf&form=hpcapt&mkt=zh-cn
+title: 高贵的双影
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_CanadaDeer%22&FORM=HPQUIZ
+wp: True
+hsh: b95483c31ffc4ea9957fbef02c795ccc
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250220.jpg
+============================================== 
+============================================== 
+周一 2025/02/24 21:51:56.78 开始执行 
+周一 2025/02/24 21:51:56.85 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250221
+fullstartdate: 202502211600
+enddate: 20250222
+url: /th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.StLouisArch_ZH-CN0442955735
+copyright: 圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)
+copyrightlink: /search?q=%e5%9c%a3%e8%b7%af%e6%98%93%e6%96%af%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 向辉煌迈进
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ
+wp: True
+hsh: 0cf3c747d53e77557e81d9e5876f3487
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250222.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250220
+fullstartdate: 202502201600
+enddate: 20250221
+url: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579
+copyright: 希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)
+copyrightlink: /search?q=%e5%b8%8c%e8%8e%ab%e5%8a%a0&form=hpcapt&mkt=zh-cn
+title: 静水流深的传说
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ
+wp: True
+hsh: c61f4299ffebc05c63eaa0265d4aa160
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250221.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250219
+fullstartdate: 202502191600
+enddate: 20250220
+url: /th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.CanadaDeer_ZH-CN0631345798
+copyright: 马鹿，加拿大 (© Delbars/Getty Images)
+copyrightlink: /search?q=%e9%a9%ac%e9%b9%bf&form=hpcapt&mkt=zh-cn
+title: 高贵的双影
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_CanadaDeer%22&FORM=HPQUIZ
+wp: True
+hsh: b95483c31ffc4ea9957fbef02c795ccc
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250220.jpg
+============================================== 
+============================================== 
+周二 2025/02/25  9:16:36.54 开始执行 
+周二 2025/02/25  9:16:36.61 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250224
+fullstartdate: 202502241600
+enddate: 20250225
+url: /th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.BryceHoodoos_ZH-CN0817211446
+copyright: 砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)
+copyrightlink: /search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 风蚀石们的问候
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ
+wp: True
+hsh: a8fb7123ba731263cb078834faa0901b
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+开始下载壁纸...
+保存文件名: 20250225.jpg
+完整保存路径: E:\WallPapers\20250225.jpg
+壁纸下载完成!
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250221
+fullstartdate: 202502211600
+enddate: 20250222
+url: /th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.StLouisArch_ZH-CN0442955735
+copyright: 圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)
+copyrightlink: /search?q=%e5%9c%a3%e8%b7%af%e6%98%93%e6%96%af%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 向辉煌迈进
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ
+wp: True
+hsh: 0cf3c747d53e77557e81d9e5876f3487
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250222.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250220
+fullstartdate: 202502201600
+enddate: 20250221
+url: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579
+copyright: 希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)
+copyrightlink: /search?q=%e5%b8%8c%e8%8e%ab%e5%8a%a0&form=hpcapt&mkt=zh-cn
+title: 静水流深的传说
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ
+wp: True
+hsh: c61f4299ffebc05c63eaa0265d4aa160
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250221.jpg
+删除旧图片: 20250220.jpg
+============================================== 
+============================================== 
+周二 2025/02/25 22:06:57.78 开始执行 
+周二 2025/02/25 22:06:57.85 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250224
+fullstartdate: 202502241600
+enddate: 20250225
+url: /th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.BryceHoodoos_ZH-CN0817211446
+copyright: 砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)
+copyrightlink: /search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 风蚀石们的问候
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ
+wp: True
+hsh: a8fb7123ba731263cb078834faa0901b
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250225.jpg
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250221
+fullstartdate: 202502211600
+enddate: 20250222
+url: /th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.StLouisArch_ZH-CN0442955735
+copyright: 圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)
+copyrightlink: /search?q=%e5%9c%a3%e8%b7%af%e6%98%93%e6%96%af%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 向辉煌迈进
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ
+wp: True
+hsh: 0cf3c747d53e77557e81d9e5876f3487
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250222.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250220
+fullstartdate: 202502201600
+enddate: 20250221
+url: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ChampakaSarasi_ZH-CN0254940579
+copyright: 希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)
+copyrightlink: /search?q=%e5%b8%8c%e8%8e%ab%e5%8a%a0&form=hpcapt&mkt=zh-cn
+title: 静水流深的传说
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_ChampakaSarasi%22&FORM=HPQUIZ
+wp: True
+hsh: c61f4299ffebc05c63eaa0265d4aa160
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250221.jpg
+============================================== 
+============================================== 
+周三 2025/02/26  9:36:04.49 开始执行 
+周三 2025/02/26  9:36:04.56 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250225
+fullstartdate: 202502251600
+enddate: 20250226
+url: /th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ArgyllStalker_ZH-CN0970395078
+copyright: 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)
+copyrightlink: /search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e6%96%af%e6%89%98%e5%85%8b%e5%b0%94%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn
+title: 苏格兰战略的最佳体现
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ
+wp: True
+hsh: 965a5c8348aeab206e279d65f8181971
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+开始下载壁纸...
+保存文件名: 20250226.jpg
+完整保存路径: E:\WallPapers\20250226.jpg
+壁纸下载完成!
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250224
+fullstartdate: 202502241600
+enddate: 20250225
+url: /th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.BryceHoodoos_ZH-CN0817211446
+copyright: 砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)
+copyrightlink: /search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 风蚀石们的问候
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ
+wp: True
+hsh: a8fb7123ba731263cb078834faa0901b
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250225.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250221
+fullstartdate: 202502211600
+enddate: 20250222
+url: /th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.StLouisArch_ZH-CN0442955735
+copyright: 圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)
+copyrightlink: /search?q=%e5%9c%a3%e8%b7%af%e6%98%93%e6%96%af%e6%8b%b1%e9%97%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 向辉煌迈进
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250221_StLouisArch%22&FORM=HPQUIZ
+wp: True
+hsh: 0cf3c747d53e77557e81d9e5876f3487
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250222.jpg
+删除旧图片: 20250221.jpg
+============================================== 
+============================================== 
+周四 2025/02/27  9:38:09.60 开始执行 
+周四 2025/02/27  9:38:09.67 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250226
+fullstartdate: 202502261600
+enddate: 20250227
+url: /th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.PolarCub_ZH-CN1179361319
+copyright: 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)
+copyrightlink: /search?q=%e5%9b%bd%e9%99%85%e5%8c%97%e6%9e%81%e7%86%8a%e6%97%a5&form=hpcapt&mkt=zh-cn
+title: 极地关怀
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_PolarCub%22&FORM=HPQUIZ
+wp: True
+hsh: c0a8c8a29e280d906d8c2a2ad0f0ff8c
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+开始下载壁纸...
+保存文件名: 20250227.jpg
+完整保存路径: E:\WallPapers\20250227.jpg
+壁纸下载完成!
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250225
+fullstartdate: 202502251600
+enddate: 20250226
+url: /th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ArgyllStalker_ZH-CN0970395078
+copyright: 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)
+copyrightlink: /search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e6%96%af%e6%89%98%e5%85%8b%e5%b0%94%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn
+title: 苏格兰战略的最佳体现
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ
+wp: True
+hsh: 965a5c8348aeab206e279d65f8181971
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250226.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250224
+fullstartdate: 202502241600
+enddate: 20250225
+url: /th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.BryceHoodoos_ZH-CN0817211446
+copyright: 砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)
+copyrightlink: /search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 风蚀石们的问候
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ
+wp: True
+hsh: a8fb7123ba731263cb078834faa0901b
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250225.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+删除旧图片: 20250222.jpg
+============================================== 
+============================================== 
+周四 2025/02/27 15:37:42.60 开始执行 
+周四 2025/02/27 15:37:42.68 网络已连接，开始下载壁纸 
+开始检查最近 5 天的图片...
+
+检查 0 天前的图片...
+
+=== 图片数据信息 (idx=0) ===
+startdate: 20250226
+fullstartdate: 202502261600
+enddate: 20250227
+url: /th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.PolarCub_ZH-CN1179361319
+copyright: 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)
+copyrightlink: /search?q=%e5%9b%bd%e9%99%85%e5%8c%97%e6%9e%81%e7%86%8a%e6%97%a5&form=hpcapt&mkt=zh-cn
+title: 极地关怀
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_PolarCub%22&FORM=HPQUIZ
+wp: True
+hsh: c0a8c8a29e280d906d8c2a2ad0f0ff8c
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250227.jpg
+
+检查 1 天前的图片...
+
+=== 图片数据信息 (idx=1) ===
+startdate: 20250225
+fullstartdate: 202502251600
+enddate: 20250226
+url: /th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.ArgyllStalker_ZH-CN0970395078
+copyright: 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)
+copyrightlink: /search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e6%96%af%e6%89%98%e5%85%8b%e5%b0%94%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn
+title: 苏格兰战略的最佳体现
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ
+wp: True
+hsh: 965a5c8348aeab206e279d65f8181971
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250226.jpg
+
+检查 2 天前的图片...
+
+=== 图片数据信息 (idx=2) ===
+startdate: 20250224
+fullstartdate: 202502241600
+enddate: 20250225
+url: /th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.BryceHoodoos_ZH-CN0817211446
+copyright: 砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)
+copyrightlink: /search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn
+title: 风蚀石们的问候
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_BryceHoodoos%22&FORM=HPQUIZ
+wp: True
+hsh: a8fb7123ba731263cb078834faa0901b
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250225.jpg
+
+检查 3 天前的图片...
+
+=== 图片数据信息 (idx=3) ===
+startdate: 20250223
+fullstartdate: 202502231600
+enddate: 20250224
+url: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.GiantCuttlefish_ZH-CN0670915878
+copyright: 斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)
+copyrightlink: /search?q=%e4%bc%9e%e8%86%9c%e4%b9%8c%e8%b4%bc&form=hpcapt&mkt=zh-cn
+title: 墨迹与伪装
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ
+wp: True
+hsh: 03ef903ff996ef25011315666a445f3a
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250224.jpg
+
+检查 4 天前的图片...
+
+=== 图片数据信息 (idx=4) ===
+startdate: 20250222
+fullstartdate: 202502221600
+enddate: 20250223
+url: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+urlbase: /th?id=OHR.MtFujiSunrise_ZH-CN0567499176
+copyright: 日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)
+copyrightlink: /search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn
+title: 清晨的美好精致
+quiz: /search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ
+wp: True
+hsh: d232926885564cd4cf3a6d548eaf3558
+drk: 1
+top: 1
+bot: 1
+hs: []
+==================
+
+获取到的壁纸URL: https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+图片已存在，跳过下载: 20250223.jpg
+============================================== 
